@@ -1,0 +1,14 @@
+(base) ville@T490:~/Desktop$ tree OhjelmistoTekniikka/
+OhjelmistoTekniikka/
+├── ot-harjoitustyo
+│   ├── laskarit
+│   │   └── viikko1
+│   └── README.md
+└── ot_viikko1
+    ├── eka.txt
+    ├── kolmas.txt
+    ├── stuff
+    │   └── jokin.txt
+    └── tiedostoja
+        ├── file22
+        └── file3
