@@ -8,5 +8,4 @@
 
 [komentorivi.txt](https://github.com/pirstov/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-
-Tässä repositoriossa on __Helsingin__ yliopiston järjestämän *Ohjelmistotekniikka*-kurssin harjoitustyö.
+Tässä repositoriossa on __Helsingin__ yliopiston järjestämän *Ohjelmistotekniikka*-kurssin harjoitustyö. Tänne päivitetään myös viikottaisten harjoitusten vastaukset.
